@@ -1,0 +1,17 @@
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.csprojAssemblyReference.cache
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.AssemblyInfoInputs.cache
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.AssemblyInfo.cs
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Persistence.deps.json
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Persistence.dll
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\ref\CQRS.Persistence.dll
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Persistence.pdb
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Application.dll
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Domain.dll
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Application.pdb
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\bin\Debug\net5.0\CQRS.Domain.pdb
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.csproj.CopyComplete
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.dll
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\ref\CQRS.Persistence.dll
+C:\Users\Somad\source\repos\CQRS\CQRS.Persistence\obj\Debug\net5.0\CQRS.Persistence.pdb
